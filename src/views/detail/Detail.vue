@@ -18,6 +18,7 @@
     <detail-bottom-bar @addToCart="addToCart"></detail-bottom-bar>
     <back-top @click.native="backTop" v-show="isShowBackTop"></back-top>
   </div>
+  <!-- 我们来试一试svn是不是那么的好用 -->
 </template>
 
 <script>
